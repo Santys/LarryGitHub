@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker d elos que hay pocos.
 
-**Santiago Jimenez**, git lover
+**Santiago Jimenez**, Git & Larry Plotter Lover
+
+
